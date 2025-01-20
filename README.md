@@ -1,16 +1,16 @@
-## Hi there 👋
+### Sup` there! Welcome to my github 👋
+#### AKA ~Wegx~ Gio ❤️
 
-<!--
-**Wegxx/Wegxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<p>🔥 Software Engineer at <a href="https://www.hotmart.com.br/" target="blank_">Hotmart</a></p>
+<p>🎓 Graduated in Control and Automation Engineering at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">Pontifical Catholic University of Minas Gerais (PUC Minas)</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,aws,mysql,mongodb,react,js,html,css)](https://skillicons.dev)
+
+<hr>
+  
+  <a href = "mailto:gio.nacimento31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovanna-nascimento-reis-126b01198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
