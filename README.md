@@ -1,5 +1,5 @@
 ### Sup` there! Welcome to my github 👋
-#### AKA ~Wegx~ Gio ❤️
+#### ~Wegx~ Gio ❤️
 
 <hr>
 
