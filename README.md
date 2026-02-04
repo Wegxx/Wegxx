@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>🔥 Software Engineer at <a href="https://www.hotmart.com.br/" target="blank_">Hotmart</a></p>
+<p>💚 Software Engineer at <a href="https://picpay.com/pt-br/pf" target="blank_">Picpay</a></p>
 <p>🎓 Graduated in Control and Automation Engineering at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">Pontifical Catholic University of Minas Gerais (PUC Minas)</a></p>
 
 <hr>
